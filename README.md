@@ -69,24 +69,14 @@ The program is executed successfully
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
-
 # AIM:
-
 To implement a program to encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique.
-
- 
 ## DESIGN STEPS:
-
 ### Step 1:
-
 Design of PlayFair Cipher algorithnm 
-
 ### Step 2:
-
 Implementation using C or pyhton code
-
 ### Step 3:
-
 Testing algorithm with different key values. 
 
 ALGORITHM DESCRIPTION:
@@ -262,8 +252,7 @@ return 0;
 }
 
 ## OUTPUT:
-Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+![Screenshot (192)](https://github.com/user-attachments/assets/082ec52c-7b48-46bd-9ac2-8debdc6790a2)
 
 ## RESULT:
 The program is executed successfully
@@ -346,12 +335,8 @@ printf("Decoded message : %s\n", dec); return 0;
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Hill Cipher
+![Screenshot (189)](https://github.com/user-attachments/assets/fc615c15-fb81-4eab-bce3-57be6aeee1ce)
 
-
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
@@ -415,13 +400,8 @@ char message[]= "Thisisasecretmessage.";//Replace withyourmessage
 //Decrypt themessage backtotheoriginal vigenereDecrypt(message,key); printf("DecryptedMessage:%s\n",message); Return 0;
 
 ## OUTPUT:
-OUTPUT :
+![Screenshot (190)](https://github.com/user-attachments/assets/7e4ffe57-39dd-4d1d-b7b7-dc2d6e8df1ec)
 
-Simulating Vigenere Cipher
-
-
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
@@ -499,9 +479,7 @@ if(code[i][j]!=0) printf("%c",code[i][j]);
 printf("\n");
 }
 ## OUTPUT:
-OUTPUT:
-Enter a Secret Message wearediscovered
-Enter number of rails 2
-waeicvrderdsoee
+![Screenshot (191)](https://github.com/user-attachments/assets/999527ea-1914-4212-920d-2c6cf299b44a)
+
 ## RESULT:
 The program is executed successfully
