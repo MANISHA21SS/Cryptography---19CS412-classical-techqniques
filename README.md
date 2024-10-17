@@ -1,22 +1,14 @@
 # Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
-
 # AIM:
-
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
-
 ## DESIGN STEPS:
-
 ### Step 1:
-
 Design of Caeser Cipher algorithnm 
-
 ### Step 2:
-
 Implementation using C or pyhton code
-
 ### Step 3:
 
 1.	In Ceaser Cipher each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
@@ -27,7 +19,6 @@ Implementation using C or pyhton code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
-
 
 ## PROGRAM:
 PROGRAM:
@@ -69,12 +60,7 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
-
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+![Screenshot (188)](https://github.com/user-attachments/assets/de74cfe1-44ef-4cc6-9754-8c91a23127d2)
 
 ## RESULT:
 The program is executed successfully
